@@ -1,0 +1,8 @@
+{
+    "pages": {
+        "main": {
+            "testButton": "Test",
+            "changeLocale": "Change locale"
+        }
+    }
+}
