@@ -2,6 +2,7 @@
     <ui-button @onButtonClicked="onTestButtonClicked">
         {{ $t("pages.main.testButton") }}
     </ui-button>
+    <p>12345</p>
     <p>
         Access token: {{ accessToken }}
     </p>
